@@ -1,5 +1,6 @@
 <a href="https://github.com/Vulture-avs">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Aditya Banner"/>
+  <img width="100%" alt="Aditya BanneR" src="https://github.com/user-attachments/assets/74f9ec5f-d22d-4cb2-b1a9-a42121a024f3" />
+
 </a>
 
 <div align="center">
