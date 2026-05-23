@@ -73,10 +73,9 @@
 </div>
 
 <div align="center">
-  <p align="center">
- <img src="https://raw.githubusercontent.com/Vulture-avs/Vulture-avs/output/github-snake-dark.svg" width="100%">
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vulture-avs&theme=dark" alt="GitHub Streak" />
 </div>
+<br>
 
 
 <br><br>
