@@ -74,7 +74,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/Vulture-avs/Vulture-avs/blob/output/github-snake-dark.svg" width="100%">
+ <img src="https://raw.githubusercontent.com/Vulture-avs/Vulture-avs/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
