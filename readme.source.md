@@ -98,7 +98,7 @@
       fontSize: 52, fontWeight: 800, letterSpacing: -2, lineHeight: 1,
       color: '#ffffff',
       textShadow: '0 0 60px rgba(0,229,255,0.25), 0 0 120px rgba(139,92,246,0.15)'
-    }}>Alan Thomas Shaji</span>
+    }}>Aditya Vikram Singh</span>
 
     <div style={{ display: 'flex', alignItems: 'center', marginTop: 16, gap: 6 }}>
       <span style={{
@@ -109,7 +109,7 @@
     </div>
 
     <div style={{ display: 'flex', gap: 8, marginTop: 24, flexWrap: 'wrap', justifyContent: 'center' }}>
-      {['Scalable Frontend Architecture', 'Performance Engineering', 'AI-Assisted Systems', 'Observability & Dashboards'].map(function(tag, i) {
+      {['Scalable Frontend Architecture', 'AI-Assisted Systems', 'Observability & Dashboards'].map(function(tag, i) {
         return (
           <span key={i} style={{
             padding: '5px 14px', borderRadius: 100,
