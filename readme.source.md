@@ -6,8 +6,8 @@
 
 ```aura width=800 height=260 align=center
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
-  <div style={{ position: 'absolute', top: -100, width: 600, height: 300, backgroundImage: 'radial-gradient(circle, rgba(139, 92, 246, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
-  <div style={{ position: 'absolute', bottom: -100, right: -100, width: 400, height: 200, backgroundImage: 'radial-gradient(circle, rgba(225, 29, 72, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
+  <div style={{ position: 'absolute', top: -100, width: 600, height: 300, backgroundImage: 'radial-gradient(circle, rgba(139, 92, 246, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
+  <div style={{ position: 'absolute', bottom: -100, right: -100, width: 400, height: 200, backgroundImage: 'radial-gradient(circle, rgba(225, 29, 72, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
   
   <div style={{ color: 'white', fontSize: 56, fontWeight: 800, letterSpacing: -2 }}>Aditya Vikram Singh</div>
   <div style={{ color: '#ababb6', fontSize: 14, marginTop: 16, letterSpacing: 4, textTransform: 'uppercase' }}>
@@ -25,7 +25,7 @@
 ```aura width=800 height=200 align=center
 <div style={{ display: 'flex', gap: 16, width: '100%', height: '100%', fontFamily: 'Inter, sans-serif' }}>
   <div style={{ display: 'flex', flexDirection: 'column', padding: 32, flex: 1, backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden' }}>
-    <div style={{ position: 'absolute', top: -50, left: -50, width: 300, height: 300, backgroundImage: 'radial-gradient(circle, rgba(225, 29, 72, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
+    <div style={{ position: 'absolute', top: -50, left: -50, width: 300, height: 300, backgroundImage: 'radial-gradient(circle, rgba(225, 29, 72, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
     <div style={{ color: '#52525b', fontSize: 12, fontWeight: 700, letterSpacing: 2 }}>ABOUT</div>
     <div style={{ display: 'flex', flexDirection: 'column', color: 'white', fontSize: 28, fontWeight: 700, marginTop: 16, lineHeight: 1.2 }}>
       <div>Building systems</div>
@@ -38,14 +38,14 @@
 
   <div style={{ display: 'flex', flexDirection: 'column', gap: 16, width: 280 }}>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1, backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden' }}>
-      <div style={{ position: 'absolute', right: -50, top: -50, width: 200, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
+      <div style={{ position: 'absolute', right: -50, top: -50, width: 200, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6 }}>
         <div style={{ fontSize: 24 }}>🎯</div>
         <div style={{ color: '#60a5fa', fontSize: 12, fontWeight: 700, letterSpacing: 2 }}>ALWAYS LEARNING</div>
       </div>
     </div>
     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1, backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden' }}>
-      <div style={{ position: 'absolute', left: -50, bottom: -50, width: 200, height: 200, backgroundImage: 'radial-gradient(circle, rgba(245, 158, 11, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
+      <div style={{ position: 'absolute', left: -50, bottom: -50, width: 200, height: 200, backgroundImage: 'radial-gradient(circle, rgba(245, 158, 11, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6 }}>
         <div style={{ fontSize: 24 }}>⭐</div>
         <div style={{ color: '#fbbf24', fontSize: 12, fontWeight: 700, letterSpacing: 2 }}>CRAFT MATTERS</div>
@@ -58,8 +58,8 @@
 
 ```aura width=800 height=520 align=center
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 40, width: '100%', height: '100%', backgroundColor: '#09090b', borderRadius: 24, border: '1px solid #27272a', position: 'relative', overflow: 'hidden', fontFamily: 'Inter, sans-serif' }}>
-  <div style={{ position: 'absolute', top: -100, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(16, 185, 129, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
-  <div style={{ position: 'absolute', bottom: -50, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.15) 0%, rgba(0,0,0,0) 70%)' }} />
+  <div style={{ position: 'absolute', top: -100, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(16, 185, 129, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
+  <div style={{ position: 'absolute', bottom: -50, width: 500, height: 200, backgroundImage: 'radial-gradient(circle, rgba(59, 130, 246, 0.25) 0%, rgba(0,0,0,0) 70%)', filter: 'blur(60px)' }} />
 
   <div style={{ color: '#52525b', fontSize: 14, fontWeight: 700, letterSpacing: 4, marginBottom: 40 }}>STACKS</div>
   
