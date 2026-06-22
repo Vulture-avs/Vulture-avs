@@ -109,7 +109,7 @@
     </div>
 
     <div style={{ display: 'flex', gap: 8, marginTop: 24, flexWrap: 'wrap', justifyContent: 'center' }}>
-      {['Scalable Frontend Architecture', 'AI-Assisted Systems', 'Observability & Dashboards'].map(function(tag, i) {
+      {['Scalable Frontend Architecture', 'Performance Engineering', 'AI-Assisted Systems', 'Observability & Dashboards'].map(function(tag, i) {
         return (
           <span key={i} style={{
             padding: '5px 14px', borderRadius: 100,
